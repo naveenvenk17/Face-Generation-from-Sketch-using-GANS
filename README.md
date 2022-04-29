@@ -42,7 +42,7 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
  
  - after 1 epoch : 
  <p align="center">
-![epoch 1](/progress/plot_000001.png)
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 </p>
  - after 10 epochs : 
  <p align="center">

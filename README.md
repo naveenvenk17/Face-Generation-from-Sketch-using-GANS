@@ -42,28 +42,23 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
  
  - after 1 epoch : 
  <p align="center">
-![plot_000001](https://user-images.githubusercontent.com/81929600/166019500-f393ecd8-ac0e-4e36-a235-057f8ab5683c.png)
-
+![epoch 1](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/progress/plot_000001.png)
 </p>
  - after 10 epochs : 
  <p align="center">
-![plot_000010](https://user-images.githubusercontent.com/81929600/166019970-5941ca32-17c6-4f29-be17-82a604f820fb.png)
-
+![epoch 10](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/progress/plot_000010.png)
 </p>
  - after 25 epochs :
   <p align="center">
-![plot_000025](https://user-images.githubusercontent.com/81929600/166020616-ce992dba-149a-475b-8e81-4a5f94e4acb6.png)
-
+![epoch 25](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/progress/plot_000025.png)
 </p>
  - after 50 epochs : 
  <p align="center">
-![plot_000050](https://user-images.githubusercontent.com/81929600/166021186-c5c504e8-3137-474c-88dd-d271719af900.png)
-
+![epoch 50](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/progress/plot_000050.png)
 </p>
  - after 82 epochs : 
  <p align="center">
-![plot_000082](https://user-images.githubusercontent.com/81929600/166021943-5a762bbb-747d-451a-89a1-020fa89de869.png)
-
+![epoch 82](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/progress/plot_000082.png)
 </p>
 
 

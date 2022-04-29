@@ -2,6 +2,10 @@
 
 This repository contains the code for implementing an image generation system using GAN (Generative Adversarial Networks) to turn face sketches into realistic photos. 
 
+![pred1](https://user-images.githubusercontent.com/81929600/166057437-e5724864-daa0-42c0-9fcb-9dfdd8b2de2c.jpeg)
+
+
+
 ### Contents
 * [Getting started](#install-requirements)
 * [Data Augmentation](#data-augmentation)

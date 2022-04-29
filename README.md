@@ -67,7 +67,9 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 
 ![plot_000082](https://user-images.githubusercontent.com/81929600/166057641-28b5cc54-2a70-4749-b1e1-e308bf832331.png)
 
-
+<p align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/81929600/166057641-28b5cc54-2a70-4749-b1e1-e308bf832331.png">
+</p>
 
 
 ## Performance Measurement

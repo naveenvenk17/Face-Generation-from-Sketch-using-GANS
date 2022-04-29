@@ -42,7 +42,7 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
  
  - after 1 epoch : 
  <p align="center">
-![epoch 1](progress/plot_000001.png)
+![epoch 1](/progress/plot_000001.png)
 </p>
  - after 10 epochs : 
  <p align="center">
@@ -50,15 +50,15 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 </p>
  - after 25 epochs :
   <p align="center">
-![epoch 25](plot_000025.png)
+![epoch 25](progress/plot_000025.png)
 </p>
  - after 50 epochs : 
  <p align="center">
-![epoch 50](plot_000050.png)
+![epoch 50](/progress/plot_000050.png)
 </p>
  - after 82 epochs : 
  <p align="center">
-![epoch 82](plot_000082.png)
+![epoch 82](progress/plot_000082.png)
 </p>
 
 

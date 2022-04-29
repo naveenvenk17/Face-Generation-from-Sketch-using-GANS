@@ -40,27 +40,36 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 ## Training
 
  - Start training GAN model with this [notebook](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/GAN.ipynb)
+ - 
  - Trained our model for 82 epochs
 
 ## Model Prediction after 
  
  -  1 epoch : 
 
-![plot_000001](https://user-images.githubusercontent.com/81929600/166057574-05df5aba-991a-4752-862d-80c59799f038.png)
+<p align="center">
+  <img width="432" height="288" src="https://user-images.githubusercontent.com/81929600/166057574-05df5aba-991a-4752-862d-80c59799f038.png">
+</p>
 
 
  -  10 epoch : 
 
-![plot_000010](https://user-images.githubusercontent.com/81929600/166057595-2b1ae3b3-d838-4dc5-8742-9e3bcaf4f9ec.png)
+<p align="center">
+  <img width="432" height="288" src="https://user-images.githubusercontent.com/81929600/166057595-2b1ae3b3-d838-4dc5-8742-9e3bcaf4f9ec.png">
+</p>
 
 
  - 25 epoch : 
 
-![plot_000025](https://user-images.githubusercontent.com/81929600/166057612-35dcc005-788d-472f-aa35-f98b820267d3.png)
+<p align="center">
+  <img width="432" height="288" src="https://user-images.githubusercontent.com/81929600/166057612-35dcc005-788d-472f-aa35-f98b820267d3.png">
+</p>
 
  -  50 epoch : 
  
-![plot_000050](https://user-images.githubusercontent.com/81929600/166057626-ad2cd34a-1670-432c-8ebd-fe976da68a69.png)
+<p align="center">
+  <img width="432" height="288" src="https://user-images.githubusercontent.com/81929600/166057626-ad2cd34a-1670-432c-8ebd-fe976da68a69.png">
+</p>
 
 
  -  82 epoch : 

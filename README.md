@@ -50,25 +50,24 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 
 
  - after 10 epoch : 
- <p align="center">
+
 ![plot_000010](https://user-images.githubusercontent.com/81929600/166057595-2b1ae3b3-d838-4dc5-8742-9e3bcaf4f9ec.png)
 
-</p>
+
  - after 25 epoch : 
- <p align="center">
+
 ![plot_000025](https://user-images.githubusercontent.com/81929600/166057612-35dcc005-788d-472f-aa35-f98b820267d3.png)
 
-</p>
  - after 50 epoch : 
- <p align="center">
+ 
 ![plot_000050](https://user-images.githubusercontent.com/81929600/166057626-ad2cd34a-1670-432c-8ebd-fe976da68a69.png)
 
-</p>
+
  - after 82 epoch : 
- <p align="center">
+
 ![plot_000082](https://user-images.githubusercontent.com/81929600/166057641-28b5cc54-2a70-4749-b1e1-e308bf832331.png)
 
-</p>
+
 
 
 ## Performance Measurement

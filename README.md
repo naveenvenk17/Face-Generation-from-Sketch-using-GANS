@@ -42,7 +42,7 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
  
  - after 1 epoch : 
  <p align="center">
-![epoch 1](progress/plot_000001.png)
+![epoch 1](https://drive.google.com/drive/u/1/folders/11GDU4rCC88-PVe1JITuKO_9igSt9T2V8)
 </p>
  - after 10 epoch : 
  <p align="center">

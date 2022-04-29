@@ -33,12 +33,12 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 
  - GAN model consists of Generator model with 50 layers and Adversary Model with 9 layers.
 
-##Training
+## Training
 
  - Start training GAN model with this [notebook](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/GAN.ipynb)
  - Trained our model for 82 epochs
 
-#### - Model Prediction after 
+####- Model Prediction after 
  
  - after 1 epoch : 
  <p align="center">

@@ -45,10 +45,10 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 #### Model Prediction after 
  
  - after 1 epoch : 
- <p align="center">
+
 ![plot_000001](https://user-images.githubusercontent.com/81929600/166057574-05df5aba-991a-4752-862d-80c59799f038.png)
 
-</p>
+
  - after 10 epoch : 
  <p align="center">
 ![plot_000010](https://user-images.githubusercontent.com/81929600/166057595-2b1ae3b3-d838-4dc5-8742-9e3bcaf4f9ec.png)

@@ -46,23 +46,28 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
  
  - after 1 epoch : 
  <p align="center">
-![epoch 1](https://drive.google.com/drive/u/1/folders/11GDU4rCC88-PVe1JITuKO_9igSt9T2V8)
+![plot_000001](https://user-images.githubusercontent.com/81929600/166057574-05df5aba-991a-4752-862d-80c59799f038.png)
+
 </p>
  - after 10 epoch : 
  <p align="center">
-![epoch 10](progress/plot_000001.png)
+![plot_000010](https://user-images.githubusercontent.com/81929600/166057595-2b1ae3b3-d838-4dc5-8742-9e3bcaf4f9ec.png)
+
 </p>
  - after 25 epoch : 
  <p align="center">
-![epoch 25](progress/plot_000001.png)
+![plot_000025](https://user-images.githubusercontent.com/81929600/166057612-35dcc005-788d-472f-aa35-f98b820267d3.png)
+
 </p>
  - after 50 epoch : 
  <p align="center">
-![epoch 50](progress/plot_000001.png)
+![plot_000050](https://user-images.githubusercontent.com/81929600/166057626-ad2cd34a-1670-432c-8ebd-fe976da68a69.png)
+
 </p>
  - after 82 epoch : 
  <p align="center">
-![epoch 82](progress/plot_000001.png)
+![plot_000082](https://user-images.githubusercontent.com/81929600/166057641-28b5cc54-2a70-4749-b1e1-e308bf832331.png)
+
 </p>
 
 

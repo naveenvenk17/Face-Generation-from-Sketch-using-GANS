@@ -40,7 +40,6 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 ## Training
 
  - Start training GAN model with this [notebook](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/GAN.ipynb)
- - 
  - Trained our model for 82 epochs
 
 ## Model Prediction after 

@@ -41,6 +41,8 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 
  - Start training GAN model with this [notebook](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/GAN.ipynb)
  - Trained our model for 82 epochs
+ - Generator model Loss = 2.052
+ - Discriminator model Loss = 1.139
 
 ## Model Prediction after 
  

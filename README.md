@@ -81,6 +81,8 @@ Or you can refer to this link https://medium.com/@kegui/how-to-install-keras-con
 
 ## Performance Measurement
  - SSIM (Structural Similarity Index) is used for measuring the similarity between two images.
+ - SSIM = 0.7858
+ - L2 Norm = 93.452
  - Calculate SSIM and Verification Accuracy (L2-norm) using this [notebook](https://github.com/naveenvenk17/Face-Generation-from-Sketch/blob/main/Compute%20SSIM%20and%20L2-norm.ipynb)
 
 ## Testing
